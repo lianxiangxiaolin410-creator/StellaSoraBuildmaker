@@ -26,6 +26,52 @@ const characters = {
         { id: "a_ss1", name: "支援サブA", image: "" }
       ]
     }
+  },
+    "フィレン": {
+    main: {
+      core: [
+        { id: "firenze_mc1", name: "タップステップ", image: "" },
+        { id: "firenze_mc2", name: "しなやかステップ", image: "" },
+        { id: "firenze_mc3", name: "幻舞のステップ", image: "" },
+        { id: "firenze_mc4", name: "重ね影のステップ", image: "" }
+      ],
+      sub: [
+        { id: "firenze_ms1", name: "冴えわたる采配", image: "" },
+        { id: "firenze_ms2", name: "闇の円舞", image: "" },
+        { id: "firenze_ms3", name: "影の断ち切り", image: "" },
+        { id: "firenze_ms4", name: "残業タイム", image: "" },
+        { id: "firenze_ms5", name: "憂いの声", image: "" },
+        { id: "firenze_ms6", name: "奇妙な偶然", image: "" },
+        { id: "firenze_ms7", name: "追跡命令", image: "" },
+        { id: "firenze_ms8", name: "分身の妙技", image: "" },
+        { id: "firenze_ms9", name: "アナウンスタイム", image: "" },
+        { id: "firenze_ms10", name: "即時決済", image: "" },
+        { id: "firenze_ms11", name: "ダブルトップ", image: "" },
+        { id: "firenze_ms12", name: "ショーダウン", image: "" }
+      ]
+    },
+    support: {
+      core: [
+        { id: "firenze_sc1", name: "暗黒の鋲", image: "" },
+        { id: "firenze_sc2", name: "影燃ゆる灯", image: "" },
+        { id: "firenze_sc3", name: "ダブルシャドウ", image: "" },
+        { id: "firenze_sc4", name: "影夜の末裔", image: "" }
+      ],
+      sub: [
+        { id: "firenze_ss1", name: "先見の明", image: "" },
+        { id: "firenze_ss2", name: "典型的事例", image: "" },
+        { id: "firenze_ss3", name: "愉悦の仕置き", image: "" },
+        { id: "firenze_ss4", name: "歩調を合わせて", image: "" },
+        { id: "firenze_ss5", name: "暗滅のうねり", image: "" },
+        { id: "firenze_ss6", name: "臨機応変", image: "" },
+        { id: "firenze_ss7", name: "特別な配慮", image: "" },
+        { id: "firenze_ss8", name: "影の舞踏会", image: "" },
+        { id: "firenze_ss9", name: "全盛の姿", image: "" },
+        { id: "firenze_ss10", name: "即時決済", image: "" },
+        { id: "firenze_ss11", name: "ダブルトップ", image: "" },
+        { id: "firenze_ss12", name: "ショーダウン", image: "" }
+      ]
+    }
   }
 };
 
